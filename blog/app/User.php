@@ -36,4 +36,8 @@ class User extends Authenticatable
     function she(){
         echo '这是一个函数';
     }
+
+    function men5(){
+        echo '这是你的函数';
+    }
 }
