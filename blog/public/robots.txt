@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+
+
+
+function(){
+   echo '这是修改文件';
+}
