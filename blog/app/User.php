@@ -37,6 +37,11 @@ class User extends Authenticatable
         echo '这是一个函数';
     }
 
+
+    function man1(){
+        echo '这是我的函数';
+    }
+
     function men5(){
         echo '这是你的函数';
     }
