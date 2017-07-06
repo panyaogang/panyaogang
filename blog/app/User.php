@@ -26,8 +26,13 @@ class User extends Authenticatable
     protected $hidden = [
         'password', 'remember_token',
     ];
-    
-    
+
+
+    function  you(){
+        echo '我爱你';
+    }
+
+
     function she(){
         echo '这是一个函数';
     }
